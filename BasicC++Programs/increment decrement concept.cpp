@@ -1,4 +1,4 @@
-/*Precedence operator concept
+/*Increment Decrement operator concept
 int x=2;
 x++;
 cout<<x;//2
