@@ -1,3 +1,7 @@
+//Inheritance
+//•It is a process of acquiring features of an existing class into a new class
+//•It is used for achieving reusability
+//•features of base class will be available in derived class
 //Basic program for inheritance
 #include<iostream>
 using namespace std;
